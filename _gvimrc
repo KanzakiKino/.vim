@@ -22,3 +22,7 @@ set guifont=Migu_2M:h11:cANSI:qDRAFT
 set visualbell
 set t_vb=
 set noerrorbells
+
+" Disable IME
+set iminsert=0
+set imsearch=-1
