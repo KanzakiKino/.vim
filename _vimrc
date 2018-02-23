@@ -50,3 +50,9 @@ source $VIMRUNTIME/macros/matchit.vim
 " Command history
 set wildmenu
 set history=5000
+
+" status line configurations
+set laststatus=2
+set showmode
+set showcmd
+set ruler
