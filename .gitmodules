@@ -4,3 +4,6 @@
 [submodule "bundle/lightline.vim"]
 	path = bundle/lightline.vim
 	url = https://github.com/itchyny/lightline.vim
+[submodule "bundle/vim-trailing-whitespace"]
+	path = bundle/vim-trailing-whitespace
+	url = https://github.com/bronson/vim-trailing-whitespace
