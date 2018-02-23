@@ -1,0 +1,24 @@
+" [Vim Configuration File]
+" Author: KanzakiKino
+"---------------------------------------
+
+" Window size
+set lines=40
+set columns=120
+
+" Remove toolbar
+set guioptions-=m
+set guioptions-=T
+set guioptions-=r
+set guioptions-=R
+set guioptions-=l
+set guioptions-=L
+set guioptions-=b
+
+" Font
+set guifont=Migu_2M:h11:cANSI:qDRAFT
+
+" Mute beep
+set visualbell
+set t_vb=
+set noerrorbells
