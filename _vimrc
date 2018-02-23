@@ -13,6 +13,7 @@ syntax on
 filetype plugin indent on
 
 " Visual configurations
+colorscheme new-railscasts
 set number
 set title
 
