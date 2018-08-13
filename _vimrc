@@ -56,3 +56,9 @@ set laststatus=2
 set showmode
 set showcmd
 set ruler
+
+" UltiSnips configurations
+let g:UltiSnipsExpandTrigger="<tab>"
+let g:UltiSnipsJumpForwardTrigger="<tab>"
+let g:UltiSnipsJumpBackwardTrigger="<c-z>"
+let g:UltiSnipsEditSplit="vertical"

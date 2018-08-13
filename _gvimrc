@@ -16,7 +16,7 @@ set guioptions-=L
 set guioptions-=b
 
 " Font
-set guifont=Migu_2M:h11:cANSI:qDRAFT
+set guifont=Migu\ 2M\ 13
 
 " Mute beep
 set visualbell
